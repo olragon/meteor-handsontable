@@ -1,0 +1,9 @@
+{
+  "name": "Handsontable",
+  "description": "Handsontable is a minimalistic approach to Excel-like table editor in HTML & jQuery",
+  "homepage": "https://github.com/olragon/meteor-handsontable",
+  "author": "Long Nguyen  <olragon@gmail.com>",
+  "version": "v0.10.2-meteor.0",
+  "git": "https://github.com/olragon/meteor-handsontable.git",
+  "packages": {}
+}
