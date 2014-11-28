@@ -11,8 +11,9 @@ Version: 0.11.3
 
 
 ## For using in Meteor 
+This package is jQuery version of `Handsontable` libary
 
-Use the jquery style syntax for using this library. With other syntax, it wont work
+So, Use the **jQuery style syntax**. With other syntax, like accesing via `new Handsontable(...)` wont work
 
 [More on this here] (http://handsontable.com/demo/jquery.html)
 
