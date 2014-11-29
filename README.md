@@ -9,6 +9,15 @@ Version: 0.11.3
 
 `meteor add olragon:handsontable`
 
+
+## For using in Meteor 
+This package is jQuery version of `Handsontable` libary
+
+So, Use the **jQuery style syntax**. With other syntax, like accesing via `new Handsontable(...)` wont work
+
+[More on this here] (http://handsontable.com/demo/jquery.html)
+
+
 ## Handsontable's documents
 
 [Handsontable](http://handsontable.com/)
